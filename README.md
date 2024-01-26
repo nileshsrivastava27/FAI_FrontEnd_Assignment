@@ -1,1 +1,1 @@
-#FarmAI FrontEnd Assignment
+FarmAI FrontEnd Assignment
