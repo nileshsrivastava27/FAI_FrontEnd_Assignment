@@ -9,7 +9,7 @@ import styled from 'styled-components';
 const Container = styled.div`
   max-width: 600px;
   margin: 20px auto;
-  
+
 `;
 
 const CategoryHeader = styled.h3`
@@ -82,10 +82,6 @@ const TableCell = styled.td`
   };
 
   const handleSubmit = () => {
-    // Perform validation based on the configuration for each field
-    // You can add your custom validation logic here
-
-    // Display collected data in the console (you can modify this part based on your requirements)
     console.log('Collected Data:', formData);
   };
 
